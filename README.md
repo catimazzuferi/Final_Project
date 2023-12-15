@@ -8,6 +8,11 @@ This repository contains a comprehensive dataset related to housing for the top 
 
 [DATA LINK](https://www.kaggle.com/datasets/jeremylarcher/american-house-prices-and-demographics-of-top-cities). 
 
+
+COMMENT:
+The notebooks have the same data cleaning but the first model is more precise, but it is not the one used to create the streamlit. The second model is less precise but it allowed the user to enter the inputs more easily.
+
+
 ### Files
 - **databasic.csv:** Final data set.
 - First model:
@@ -22,6 +27,8 @@ This repository contains a comprehensive dataset related to housing for the top 
 - **min_max_scaler2.pkl:** Scaler for the second model.
 - **one_hot_encoder2.pkl:** Encoder for the first model.
 - **apps.py:** Streamlit for the model of the presentation.
+ALL THE FILES ARE HERE: [FILES LINK](https://drive.google.com/drive/u/0/folders/1irlpYM-0FizWviWJa3Wi4e1Uz3Y3Y0dL). 
+
 
 #### Data Fields
 
@@ -59,6 +66,10 @@ Web scraping techniques were employed to gather links from Google Street View.
 ### Streamlit Prediction App
 
 To facilitate user interaction and predictions, a Streamlit application was developed. The app allows users to input specific property features and receive predicted prices based on the built model.
+
+<img width="1440" alt="Screenshot 2023-12-15 at 02 49 00" src="https://github.com/catimazzuferi/Final_Project/assets/148059220/3f3be0bf-3fe0-4228-b837-533a05514f65">
+
+
 
 ## Presentation
 
