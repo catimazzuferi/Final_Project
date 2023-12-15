@@ -8,9 +8,20 @@ This repository contains a comprehensive dataset related to housing for the top 
 
 [DATA LINK](https://www.kaggle.com/datasets/jeremylarcher/american-house-prices-and-demographics-of-top-cities). 
 
-### Dataset
-
-**Final data set:** databasic.csv.
+### Files
+- **databasic.csv:** Final data set.
+- First model:
+- **app.py:** Streamlit for the model that I coudnt get the prediction.
+- **Final Project:** First model more precise but coudnt ask the input to the user.
+- **min_max_scaler.pkl:** Scaler for the first model.
+- **one_hot_encoder.pkl:** Encoder for the first model.
+- **random_forest_regressor.pkl:** Regressor for first model.
+- Second model (The one I present)
+- **Final Project 2:** Second model the one that I work with in streamlit and presentation.
+- **knn_regressor_model2.pkl:** Regressor for second model.
+- **min_max_scaler2.pkl:** Scaler for the second model.
+- **one_hot_encoder2.pkl:** Encoder for the first model.
+- **apps.py:** Streamlit for the model of the presentation.
 
 #### Data Fields
 
